@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Montserrat:wght@700&display=swap');
+
+@import url('./navbar.css');
+@import url('./body.css');
+@import url('./footer.css');
+
+
+:root {
+    --color-primary-0: #ffffff;
+    --color-primary-1: #000000;
+    --color-primary-2: #FDCB0C;
+    --color-primary-3: #106288;
+    --color-primary-4: #182335;
+    --color-primary-5: #107288;
+    }
+
